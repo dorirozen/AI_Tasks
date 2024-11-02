@@ -1,0 +1,13 @@
+{
+  "users": [
+    {"userName": "student1",
+      "password": "student1",
+      "role":  "Student"},
+    {"userName": "teacher1",
+      "password": "teacher1",
+      "role":  "Teacher"},
+    {"userName": "admin1",
+      "password": "admin1",
+      "role":  "Admin"}
+  ]
+}

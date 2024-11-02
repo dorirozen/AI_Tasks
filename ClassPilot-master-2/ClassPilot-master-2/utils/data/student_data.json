@@ -1,0 +1,15 @@
+{
+  "students": [
+    {
+    "userName" : "student1",
+    "positive" : 5,
+    "negative" : 1,
+    "questionsWrong":[
+      {
+        "question": "what is 1+1?",
+        "wrongAnswer": 61
+      }
+    ]
+    }
+  ]
+}

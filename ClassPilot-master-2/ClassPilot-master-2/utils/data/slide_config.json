@@ -1,0 +1,54 @@
+{
+  "subjects": [
+    {
+      "subject": "python",
+      "config": {
+        "base_font_size": 24,
+        "heading_scale": 1.5,
+        "theme": "black",
+        "height": 600,
+        "scrollable": true
+      }
+    },
+    {
+      "subject": "embedded systems",
+      "config": {
+        "base_font_size": 24,
+        "heading_scale": 1.5,
+        "theme": "black",
+        "height": 600,
+        "scrollable": true
+      }
+    },
+    {
+      "subject": "dart  programming language",
+      "config": {
+        "base_font_size": 24,
+        "heading_scale": 1.5,
+        "theme": "black",
+        "height": 600,
+        "scrollable": true
+      }
+    },
+    {
+      "subject": "Sales",
+      "config": {
+        "base_font_size": 20,
+        "heading_scale": 1.0,
+        "theme": "black",
+        "height": 600,
+        "scrollable": true
+      }
+    },
+    {
+      "subject": "Math",
+      "config": {
+        "base_font_size": 25,
+        "heading_scale": 1.5,
+        "theme": "night",
+        "height": 600,
+        "scrollable": true
+      }
+    }
+  ]
+}

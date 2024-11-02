@@ -1,0 +1,13 @@
+PyPDF2
+streamlit
+streamlit-reveal-slides
+groq
+langchain_groq
+langchain
+ollama
+langchain_community
+panda
+numpy
+pptx
+gtts
+pygame
